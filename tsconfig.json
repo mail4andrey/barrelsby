@@ -4,7 +4,7 @@
     "declaration": true,
     "sourceMap": true,
     "outDir": "./bin",
-    "newLine": "LF"
+    "newLine": "CRLF"
   },
   "include": [
       "src/**/*.ts"
